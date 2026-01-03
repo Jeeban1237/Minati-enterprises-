@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Product</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family:Arial; text-align:center; padding:20px;">
+
+  <h2>📦 My Product</h2>
+
+  <!-- Product Image -->
+  <img src="PRODUCT_IMAGE_URL" alt="Product" style="max-width:90%; border-radius:10px;">
+
+  <p style="margin-top:15px; font-size:18px;">
+    This is my amazing product! 🙌
+  </p>
+
+  <!-- WhatsApp Button -->
+  <a href="https://wa.me/918144753265?text=Hello!%20I%20want%20this%20product" 
+     target="_blank" 
+     style="text-decoration:none;">
+
+    <div style="
+      background:#25D366; 
+      color:white; 
+      padding:15px; 
+      border-radius:50px; 
+      font-size:18px; 
+      display:inline-block;
+      margin-top:20px;
+    ">
+      📱 WhatsApp Me Bolo
+    </div>
+
+  </a>
+
+</body>
+</html>
